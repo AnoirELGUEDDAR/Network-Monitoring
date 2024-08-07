@@ -1,0 +1,74 @@
+td{
+    font-size:50px;
+    text-align: center;
+    font-family:Bahnschrift;
+    border:5px solid black;
+}
+.times{
+    font-style: inherit;
+    font-family:"Digital-7 Mono";
+    font-weight:bold;
+
+}
+table {
+    border-spacing: 10px;
+    margin:auto;
+
+}
+.ISSUES{
+    font-size:25px;
+    font-weight:bolder;
+}
+
+body {
+background-image: radial-gradient(900px 700px  at top,rgb(69, 42, 139), #15153b,#050416);
+    min-height: 100vh;
+    display: block;
+    margin: 8px;
+}
+h1{
+    color:white;
+    width:300px;
+    text-align:center;
+    margin:auto;
+    font-family:Jokerman;
+    margin-bottom:30px;
+}
+.A,#AA{
+    width:300px;
+    height:30px;
+    font-size:30px;
+}
+.C{
+    background-color: aqua;
+    box-shadow: 0 0 20px #012bff;
+    border-color:aqua;
+
+}
+.D{
+    background-color: red;
+      box-shadow: 0 0 20px #ff6900;
+    border-color:red;
+}
+.titles{
+    background-color: #3d0153;
+    color:white;
+    border-color:#3d0153;
+    box-shadow: 0 0 20px #b801ff;
+
+}
+.B,.C,.D,.titles{
+     width:300px;
+    height:15px;
+    font-size:30px;
+}
+h1{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+
