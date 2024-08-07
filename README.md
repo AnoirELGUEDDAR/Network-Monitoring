@@ -1,6 +1,10 @@
 # *Screenshots:*
-![image](https://github.com/user-attachments/assets/d089a664-53b7-4147-95e0-6bf8d9270665)
+Report HTML:
 ![image](https://github.com/user-attachments/assets/9ca1bdff-04c1-4d1e-8a99-7424cdbad0d8)
+Data Storing:
+![image](https://github.com/user-attachments/assets/d089a664-53b7-4147-95e0-6bf8d9270665)
+Email Alert:
+![image](https://github.com/user-attachments/assets/e47bf568-3b78-4bd5-86d3-c75852c193e3)
 
 
 
