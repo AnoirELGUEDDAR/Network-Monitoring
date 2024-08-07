@@ -1,6 +1,6 @@
-### Detailed Description:
+### -Detailed Description:
 This script is designed to be a robust network monitoring and alerting tool. Here's a breakdown of its functionality:
-### Device Discovery:
+### -Device Discovery:
 It starts by discovering all the devices connected to your specified network *(network variable)*. It does this using **ARP** *(Address Resolution Protocol)* requests to identify the IP and MAC addresses of each device.
 ## Ping Monitoring:
 The script continuously pings each discovered device to check its responsiveness. This involves sending ICMP echo requests (ping packets) and measuring the round-trip time (RTT).
