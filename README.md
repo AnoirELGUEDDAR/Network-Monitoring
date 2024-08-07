@@ -1,3 +1,12 @@
+# *Screenshots:*
+![image](https://github.com/user-attachments/assets/d089a664-53b7-4147-95e0-6bf8d9270665)
+![image](https://github.com/user-attachments/assets/9ca1bdff-04c1-4d1e-8a99-7424cdbad0d8)
+
+
+
+
+
+
 ### -Detailed Description:
 This script is designed to be a robust network monitoring and alerting tool. Here's a breakdown of its functionality:
 ### -Device Discovery:
